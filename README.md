@@ -62,7 +62,10 @@ https://github.com/bkrem/awesome-solidity#tutorials
 
 
 # Cool Future Projects:
-https://polkadot.network/  -> read the paper
+https://polkadot.network/  
+
+tl;dr
+Blockchains have a scaling problem.  One way to solve this is to allow all the blockchains to link together by creating a messaging protocol on top.  This allows all blockchains to do their own thing, with a clearing house main chain, so all chains have the security of the main chian but can do their own thing.  This will take 2-3 years to build, but it would solve the scaling issues.  Other solutions to scaling are still in development and don't have a clear path forward, that's why this project is interestint.
 
 # Appendix
 
