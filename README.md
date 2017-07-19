@@ -10,17 +10,17 @@ http://www.usv.com/blog/fat-protocols
 
 # Business of Tokens
 
-Are tokens Legal?  Are they a security?  What are they?
+## Are tokens Legal?  Are they a security?  What are they?
 https://blog.coinbase.com/2016-12-07-blockchain-token-securities-law-a66ef03c383f
 https://www.coinbase.com/legal/securities-law-framework.pdf
 
-Cedric and Bennet from Buttercoin (YC 2013?) talk about tokens:
+## Cedric and Bennet from Buttercoin (YC 2013?) talk about tokens:
 https://recordings.join.me/6BND-31NfEmuuzcxHhsAwA
  
-List of a lot of upcoming token projects:
+## List of a lot of upcoming token projects:
 https://www.tokendata.io/
 
-Listing of markets for tokens / cryptocurrencies:
+## Listing of markets for tokens / cryptocurrencies:
 http://coinmarketcap.com/
 
 
