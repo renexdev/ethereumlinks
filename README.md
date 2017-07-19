@@ -38,6 +38,9 @@ npm install -g ethereumjs-testrpc
 
 #### get truffle:
 https://github.com/trufflesuite/truffle
+mkdir playtoken
+cd playtoken
+truffle init
 
 ### Copy paste an example token contract and play with it:
 https://github.com/ConsenSys/Tokens
