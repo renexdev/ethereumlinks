@@ -36,6 +36,9 @@ brew install npm
 npm install -g ethereumjs-testrpc
 *see command line options
 
+#### get truffle:
+https://github.com/trufflesuite/truffle
+
 ### Copy paste an example token contract and play with it:
 https://github.com/ConsenSys/Tokens
 
